@@ -21,3 +21,23 @@ body {
 .task > * + * {
   margin-left: 4px;
 }
+
+h1 {
+  text-align: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: darkslategray;
+}
